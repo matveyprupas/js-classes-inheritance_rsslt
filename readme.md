@@ -1,1 +1,1 @@
-https://github.com/rolling-scopes-school/tasks/blob/master/tasks/javascript-classes-inheritance.md
+https://matveyprupas.github.io/js-classes-inheritance_rsslt/js-classes-inheritance/
